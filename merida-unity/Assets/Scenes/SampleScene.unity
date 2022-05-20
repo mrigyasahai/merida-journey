@@ -1700,6 +1700,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Timmy
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 7d60f9f0a4cceb94a9c285499517d465, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 99166fd5fdb238d4a8ee8d03f990f5a6, type: 2}
+    - target: {fileID: 5866666021909216657, guid: 7d60f9f0a4cceb94a9c285499517d465, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d60f9f0a4cceb94a9c285499517d465, type: 3}
 --- !u!1 &1422706097
